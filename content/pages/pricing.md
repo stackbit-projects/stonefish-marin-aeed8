@@ -31,7 +31,7 @@ sections:
         subtitle: Optional subtitle
         title_align: left
         content: |
-          $19
+          ### $19
 
           per month, billed yearly
 
