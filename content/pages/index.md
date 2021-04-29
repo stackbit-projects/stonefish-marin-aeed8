@@ -13,6 +13,15 @@ sections:
       - label: Upcoming Shows
         url: /features
         style: secondary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     image: images/StoneFish.jpeg
     image_alt: Hero section placeholder image
     media_position: left
