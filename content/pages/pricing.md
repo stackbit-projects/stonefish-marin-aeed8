@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Pick Your Fish
-    subtitle: Optional hero section subtitle
+    subtitle: They're all fuckin' studs
     align: center
     padding_top: large
     padding_bottom: small
