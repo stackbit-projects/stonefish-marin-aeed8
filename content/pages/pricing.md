@@ -48,7 +48,7 @@ sections:
         subtitle: Optional subtitle
         title_align: left
         content: |
-          ##
+
 
           ### $39
 
