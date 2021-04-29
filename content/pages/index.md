@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Stonefish Official Site
     subtitle: Music for Beer Gardens
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      Our Intent is all for your delight
     actions:
       - label: Try Free
         url: /pricing
