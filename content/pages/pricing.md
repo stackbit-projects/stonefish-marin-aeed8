@@ -68,7 +68,7 @@ sections:
         subtitle: Drums
         title_align: left
         content: |
-          ### $39
+          ###
 
           per month, billed yearly
 
