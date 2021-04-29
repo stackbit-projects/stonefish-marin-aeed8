@@ -29,9 +29,6 @@ sections:
       - image: images/Screen Shot 2021-04-29 at 10.49.05 AM.png
         image_alt: Contentful logo
         image_align: center
-      - image: images/logo-6.svg
-        image_alt: Next.js logo
-        image_align: center
       - image: images/logo-8.svg
         image_alt: Git logo
         image_align: center
