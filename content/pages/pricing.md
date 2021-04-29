@@ -46,7 +46,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Jeff McFarland
-        subtitle: Optional subtitle
+        subtitle: Lead Guitar
         title_align: left
         content: |
 
