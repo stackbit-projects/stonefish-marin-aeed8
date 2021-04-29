@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Matt Andrews
-        subtitle: Optional subtitle
+        subtitle: Bass
         title_align: left
         content: |
 
