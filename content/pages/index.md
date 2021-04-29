@@ -10,7 +10,7 @@ sections:
       - label: Our Music
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Upcoming Shows
         url: /features
         style: secondary
     image: images/StoneFish.jpeg
