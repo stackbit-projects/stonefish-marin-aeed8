@@ -19,10 +19,7 @@ sections:
         media_width: fifty
       - title: '2021'
         subtitle: Rock 'n Roll Dreams
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "By the middle of 1974, the band had built up a strong live reputation, which led to a support slot for the visiting\_[Lou Reed](https://en.wikipedia.org/wiki/Lou_Reed). Sometime in 1974, on the recommendation of\_[Michael Chugg](https://en.wikipedia.org/wiki/Michael_Chugg), veteran Melbourne promoter Michael Browning booked the band to play at his club, the Hard Rock. He was not pleased with their glam rock image and felt that Evans was the wrong singer for the band, but was impressed by the Young brothers' guitar playing. Shortly afterward, he received a call from the band; Laughlin had quit as manager, and they were stuck in Adelaide with no money. Browning agreed to bail them out and booked them for another gig at the Hard Rock. Following the gig, they agreed to take him on as their new manager, with the co-operation of their older brother George and\_[Harry Vanda](https://en.wikipedia.org/wiki/Harry_Vanda).[\\[25\\]](https://en.wikipedia.org/wiki/AC/DC#cite_note-Browning-25)\_The Young brothers decided to abandon the glam rock image which had already been adopted by Melbourne band\_[Skyhooks](https://en.wikipedia.org/wiki/Skyhooks_\\(band\\))\_and pursue a harder blues-rock sound. To this end, they agreed that Evans was not a suitable frontman for the group.[\\[19\\]](https://en.wikipedia.org/wiki/AC/DC#cite_note-paulstenning-19)\_Around this time, they also moved their base to Melbourne, where they frequently played at the Hard Rock.\n"
         image: images/IMG_4937.JPG
         image_alt: Happy co-workers
         media_position: right
