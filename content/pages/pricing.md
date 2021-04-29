@@ -43,10 +43,7 @@ sections:
           * Fringilla diam magnis libero lacinia
           * Litora primis facilisis ullamcorper per
         content_align: left
-        actions:
-          - label: Start with Premium
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
       - title: Business
