@@ -18,7 +18,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: '2021'
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        subtitle: Rock 'n Roll Dreams
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
