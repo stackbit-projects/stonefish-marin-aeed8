@@ -3,7 +3,7 @@ title: About
 sections:
   - type: features_section
     features:
-      - title: Section Title One
+      - title: Early days
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
