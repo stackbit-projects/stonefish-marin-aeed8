@@ -7,7 +7,7 @@ sections:
     content: |
       Our Intent is all for your delight
     actions:
-      - label: Try Free
+      - label: Our Music
         url: /pricing
         style: primary
       - label: Learn More
