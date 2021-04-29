@@ -27,6 +27,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: full-width
+        image: images/8377B5B2-124B-4D78-9185-5A46F6AB3E46.JPG
       - title: Premium
         subtitle: Optional subtitle
         title_align: left
