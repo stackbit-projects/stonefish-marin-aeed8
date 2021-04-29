@@ -32,9 +32,6 @@ sections:
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
-      - image: images/logo-4.svg
-        image_alt: Sanity logo
-        image_align: center
       - image: images/logo-6.svg
         image_alt: Next.js logo
         image_align: center
