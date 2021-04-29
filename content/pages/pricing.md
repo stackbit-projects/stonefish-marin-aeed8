@@ -68,7 +68,7 @@ sections:
         subtitle: Drums
         title_align: left
         content: |
-          ##
+          #
 
           per month, billed yearly
 
