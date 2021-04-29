@@ -68,17 +68,20 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          $39
 
+          per month, billed yearly
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Et semper leo mattis orci conubia congue
 
+          *   Quisque eleifend imperdiet tortor
 
-          - Lorem ipsum
+          *   Elementum eu rhoncus, volutpat
 
-          - dolor sit amet
+          *   Nisi cubilia interdum ultricies
+
+          *   Feugiat porta tortor
         content_align: left
         actions: []
         actions_align: left
