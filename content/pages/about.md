@@ -13,7 +13,7 @@ sections:
       - title: '2020'
         subtitle: Enter the Pandemic
         content: "Malcolm and Angus Young developed the idea for the band's name after their sister, Margaret Young, saw the initials \"AC/DC\" on a sewing machine. \"AC/DC\" is an abbreviation meaning \"[alternating current](https://en.wikipedia.org/wiki/Alternating_current)/[direct current](https://en.wikipedia.org/wiki/Direct_current)\" electricity. The brothers felt that this name symbolised the band's raw energy, power-driven performances of their music.[\\[20\\]](https://en.wikipedia.org/wiki/AC/DC#cite_note-wbp4T-20)[\\[21\\]](https://en.wikipedia.org/wiki/AC/DC#cite_note-acdc.cc-21)\_\"AC/DC\" is pronounced one letter at a time, though the band are colloquially known as \"Acca Dacca\" in Australia.[\\[22\\]](https://en.wikipedia.org/wiki/AC/DC#cite_note-AwrS5-22)[\\[23\\]](https://en.wikipedia.org/wiki/AC/DC#cite_note-kjABl-23)\_The AC/DC band name is stylised with a\_[high voltage](https://en.wikipedia.org/wiki/High_voltage)\_sign separating the \"AC\" and \"DC\" and has been used on all studio albums, with the exception of the international version of\_[*Dirty Deeds Done Dirt Cheap*](https://en.wikipedia.org/wiki/Dirty_Deeds_Done_Dirt_Cheap).[\\[24\\]](https://en.wikipedia.org/wiki/AC/DC#cite_note-coverart-24)\n\n"
-        image: images/about-2.jpg
+        image: images/IMG_4362.JPG
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
