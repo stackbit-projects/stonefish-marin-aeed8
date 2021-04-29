@@ -65,7 +65,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Teague Sterling
-        subtitle: lorem-ipsum
+        subtitle: Drums
         title_align: left
         content: |
           ### $39
